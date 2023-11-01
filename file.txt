@@ -1,1 +1,5 @@
-Making some chnages from the branch
+Making some changes to the branch.
+
+Lesson on git rebase
+
+
